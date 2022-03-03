@@ -1,0 +1,19 @@
+{
+    "name": "carloswph/configurable",
+    "description": "Configurable interface, its abstract class implementation and a trait.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "carlos",
+            "email": "geral@meuppt.pt"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ruse\\Configurable\\": "src/"
+        }
+    }
+}
